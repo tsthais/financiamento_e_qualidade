@@ -211,6 +211,7 @@ Em conjunto, as variáveis preditoras conseguem explicar cerca de 11,45% da vari
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=E(Y)\&space;=\&space;Exp(1,696\&space;-\&space;0,275\&space;\cdot\&space;X_1\&space;&plus;\&space;0,001\&space;\cdot\&space;X_2\&space;&plus;\&space;0,023\&space;\cdot\&space;X_3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E(Y)\&space;=\&space;Exp(1,696\&space;-\&space;0,275\&space;\cdot\&space;X_1\&space;&plus;\&space;0,001\&space;\cdot\&space;X_2\&space;&plus;\&space;0,023\&space;\cdot\&space;X_3)" title="E(Y)\ =\ Exp(1,696\ -\ 0,275\ \cdot\ X_1\ +\ 0,001\ \cdot\ X_2\ +\ 0,023\ \cdot\ X_3)" /></a>
 
+#
 
 <h3>➡ Considerações Finais </h3>
 
